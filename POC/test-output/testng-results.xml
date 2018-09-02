@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="152680" started-at="2018-08-31T17:36:41Z" finished-at="2018-08-31T17:39:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="152680" started-at="2018-08-31T17:36:41Z" finished-at="2018-08-31T17:39:13Z">
+      <class name="POC.POC.GoogleHomePageTest">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:POC.POC.GoogleHomePageTest@724af044]" name="testSetUp" is-config="true" duration-ms="110921" started-at="2018-08-31T23:06:41Z" finished-at="2018-08-31T23:08:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="verifyGooglePageTittle()[pri:0, instance:POC.POC.GoogleHomePageTest@724af044]" name="verifyGooglePageTittle" duration-ms="33566" started-at="2018-08-31T23:08:32Z" finished-at="2018-08-31T23:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGooglePageTittle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:POC.POC.GoogleHomePageTest@724af044]" name="tearDown" is-config="true" duration-ms="7841" started-at="2018-08-31T23:09:06Z" finished-at="2018-08-31T23:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- POC.POC.GoogleHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
